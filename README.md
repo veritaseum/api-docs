@@ -1,2 +1,5 @@
-# api
-Veritaseum Price API
+# Veritaseum Price API
+
+## [API documentation](https://veritaseum.github.io/api/)
+
+
